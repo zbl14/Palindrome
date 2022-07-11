@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "hZv4rWfoBBSVt6UI9Q2B8KxNfu7+PSUI0DSkvx1s16cLr014lSAcP8Y5ZUhzthvgdV57K1OrwPUs81lEwsc5lQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alex\\Documents\\Epicodus GIT\\Palindrome.Solution\\Palindrome\\Palindrome.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alex\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Alex\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Alex\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
